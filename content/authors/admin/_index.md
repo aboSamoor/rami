@@ -14,7 +14,7 @@ organizations:
   url: "https://research.google/people/104839/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include language modeling, self-supervision, sequetial modeling, and graph neural networks.
 
 interests:
 - Language Modeling
@@ -68,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Rami Al-Rfou is a researcher at Google Research, where look into new ways to improve language modeling throug self-supervision techniques and transfer learning to train one set of models to cover +100 languages.
