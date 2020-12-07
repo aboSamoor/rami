@@ -34,15 +34,17 @@ links:
   url: https://twitter.com/aboSamoor
 url_code: ""
 url_pdf: ""
-url_slides: "https://docs.google.com/presentation/d/e/2PACX-1vSSJFhT48nV5sFZa3Wvdl6s79Cx_87B5_phRzsaP_KIbQfOO_OK5rIQkKGlqyiWVD6IW6VdNaOzO8On/pub?start=false&loop=false&delayms=3000"
+url_slides: {{< gdocs "https://docs.google.com/presentation/d/e/2PACX-1vSSJFhT48nV5sFZa3Wvdl6s79Cx_87B5_phRzsaP_KIbQfOO_OK5rIQkKGlqyiWVD6IW6VdNaOzO8On/embed?start=false&loop=false&delayms=3000" >}}
 url_video: "https://www.youtube.com/watch?v=gu-TI0AJ1rk"
+
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "{{< gdocs src=https://docs.google.com/presentation/d/e/2PACX-1vSSJFhT48nV5sFZa3Wvdl6s79Cx_87B5_phRzsaP_KIbQfOO_OK5rIQkKGlqyiWVD6IW6VdNaOzO8On/pub?start=false&loop=false&delayms=3000 >}}"
+slides: ""
 
 
 # Enable math on this page?
