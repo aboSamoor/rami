@@ -34,7 +34,7 @@ links:
   url: https://twitter.com/aboSamoor
 url_code: ""
 url_pdf: ""
-url_slides: "https://docs.google.com/presentation/d/e/2PACX-1vSSJFhT48nV5sFZa3Wvdl6s79Cx_87B5_phRzsaP_KIbQfOO_OK5rIQkKGlqyiWVD6IW6VdNaOzO8On"
+url_slides: "https://docs.google.com/presentation/d/e/2PACX-1vSSJFhT48nV5sFZa3Wvdl6s79Cx_87B5_phRzsaP_KIbQfOO_OK5rIQkKGlqyiWVD6IW6VdNaOzO8On/pub?start=false&loop=false&delayms=3000"
 url_video: "https://www.youtube.com/watch?v=gu-TI0AJ1rk"
 
 
@@ -49,7 +49,6 @@ slides: ""
 
 # Enable math on this page?
 math: true
----
 
-+++
 {{< gdocs "https://docs.google.com/presentation/d/e/2PACX-1vSSJFhT48nV5sFZa3Wvdl6s79Cx_87B5_phRzsaP_KIbQfOO_OK5rIQkKGlqyiWVD6IW6VdNaOzO8On/embed?start=false&loop=false&delayms=3000" >}}
+---
