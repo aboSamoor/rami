@@ -45,11 +45,23 @@ url_code = ""
 
 [[gallery_item]]
 album = "gallery"
-image = "smartreply_animation.gif"
+image = "smartreply_2.gif"
 caption = "Demo"
 
+[[gallery_item]]
+album = "gallery"
+image = "smartreply_1.png"
+caption = "Demo"
 
+[[gallery_item]]
+album = "gallery"
+image = "smartreply_3.png"
+caption = "Demo"
 
+[[gallery_item]]
+album = "gallery"
+image = "smartreply_4.png"
+caption = "Hierarchical Architecture"
 +++
 
 
