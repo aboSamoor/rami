@@ -10,15 +10,15 @@ abstract: "The recent introduction of attention mechanisms to deep learning brou
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-06-17T12:00:00Z"
+date: "2020-09-17T12:00:00Z"
 date_end: "2020-09-17T13:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-09-17T13:30:00Z"
 
-authors: []
-tags: []
+authors: [admin]
+tags: [attention, language modeling, seq2seq, self-supervision]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -34,8 +34,8 @@ links:
   url: https://twitter.com/aboSamoor
 url_code: ""
 url_pdf: ""
-url_slides: "{{< gdocs src=https://docs.google.com/presentation/d/e/2PACX-1vSSJFhT48nV5sFZa3Wvdl6s79Cx_87B5_phRzsaP_KIbQfOO_OK5rIQkKGlqyiWVD6IW6VdNaOzO8On/pub?start=false&loop=false&delayms=3000 >}}"
-url_video: ""
+url_slides: "https://docs.google.com/presentation/d/e/2PACX-1vSSJFhT48nV5sFZa3Wvdl6s79Cx_87B5_phRzsaP_KIbQfOO_OK5rIQkKGlqyiWVD6IW6VdNaOzO8On/pub?start=false&loop=false&delayms=3000"
+url_video: "https://www.youtube.com/watch?v=gu-TI0AJ1rk"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
