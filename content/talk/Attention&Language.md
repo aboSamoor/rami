@@ -1,5 +1,5 @@
 ---
-title: Attention & Langauge
+title: Attention & Language
 event: Deep Learning for Science Summer School at LBNL
 event_url: https://dl4sci-school.lbl.gov/rami-al-rfou
 
