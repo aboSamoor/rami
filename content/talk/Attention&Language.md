@@ -34,7 +34,7 @@ links:
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "{{< gdocs src=https://docs.google.com/presentation/d/e/2PACX-1vSSJFhT48nV5sFZa3Wvdl6s79Cx_87B5_phRzsaP_KIbQfOO_OK5rIQkKGlqyiWVD6IW6VdNaOzO8On/pub?start=false&loop=false&delayms=3000 >}}"
 url_video: ""
 
 # Markdown Slides (optional).
