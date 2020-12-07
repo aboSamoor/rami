@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "New York City"
   date_start = "2013-06-01"
-  date_end = "2013-8-26"
+  date_end = "2013-08-26"
   description = """Improve dictionary learning with word embeddings."""
   
 
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Mountain View"
   date_start = "2012-06-01"
-  date_end = "2012-8-26"
+  date_end = "2012-08-26"
   description = """Build multilingual coreference resolution system."""
   
 [[experience]]
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Mountain View"
   date_start = "2011-06-01"
-  date_end = "2011-8-26"
+  date_end = "2011-08-26"
   description = """Build visualization tools for data centers networks."""  
 
 +++
