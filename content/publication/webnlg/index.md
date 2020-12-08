@@ -21,8 +21,8 @@ publishDate: "2020-11-06T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "3rd Workshop on Natural Language Generation from the Semantic Web"
+publication_short: "WebNLG-2020"
 
 abstract: We present a system for bilingual Data-To-Text Generation and Semantic Parsing. We use a text-to-text generator to learn a single model that works for both languages on each of the tasks. The model is aided by machine translation during both pre-training and fine-tuning. We evaluate the system on WebNLG 2020 data, which consists of RDF triples in English and natural language sentences in English and Russian for both the tasks. We achieve considerable gains over monolingual models, especially on unseen relations and Russian.
 
