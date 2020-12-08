@@ -32,7 +32,7 @@ summary:
 
 tags:
 - Multilingual
-featured: false
+featured: true
 
 # links:
 # - name: ""
