@@ -16,22 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include language modeling, self-supervision, sequetial modeling, and graph neural networks.
 
-interests:
-- Language Modeling
-- Graph Neural Networks
-- Transfer Learning
-- Multinlingual Modeling
-- Deep Retrieval
-
-education:
-  courses:
-  - course: PhD in Computer Science
-    institution: Stony Brook University
-    year: 2015
-  - course: BSc in Computer Engineering
-    institution: University of Jordan
-    year: 2009
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
