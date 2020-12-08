@@ -53,12 +53,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Microsoft"
+  company = "Microsoft Research"
   company_url = ""
   location = "New York City"
   date_start = "2013-06-01"
   date_end = "2013-08-26"
-  description = """Improve dictionary learning with word embeddings."""
+  description = ""
   
 
 [[experience]]
@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   location = "Mountain View"
   date_start = "2012-06-01"
   date_end = "2012-08-26"
-  description = """Build multilingual coreference resolution system."""
+  description = ""
   
 [[experience]]
   title = "Software Engineer Intern"
@@ -77,6 +77,6 @@ date_format = "Jan 2006"
   location = "Mountain View"
   date_start = "2011-06-01"
   date_end = "2011-08-26"
-  description = """Build visualization tools for data centers networks."""  
+  description = ""  
 
 +++
