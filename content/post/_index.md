@@ -9,7 +9,7 @@ view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "SmartReply for YouTube Creators"
+  caption: ""
   image: ""
   url: "https://ai.googleblog.com/2020/07/smartreply-for-youtube-creators.html"
 ---
