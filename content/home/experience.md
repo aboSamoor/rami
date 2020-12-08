@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Google Research"
   company_url = ""
   location = "California"
-  date_start = "2015-06-15"
+  date_start = "2020-09-01"
   date_end = ""
   description = """
   Responsibilities include:
