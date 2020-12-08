@@ -32,7 +32,7 @@ abstract: The recent "Text-to-Text Transfer Transformer" (T5) leveraged a unifie
 summary: The recent "Text-to-Text Transfer Transformer" (T5) leveraged a unified text-to-text format and scale to attain state-of-the-art results on a wide variety of English-language NLP tasks. In this paper, we introduce mT5, a multilingual variant of T5 that was pre-trained on a new Common Crawl-based dataset covering 101 languages. We describe the design and modified training of mT5 and demonstrate its state-of-the-art performance on many multilingual benchmarks. All of the code and model checkpoints used in this work are publicly available.
 
 tags:
-- Source Themes
+- Multilingual
 featured: false
 
 # links:

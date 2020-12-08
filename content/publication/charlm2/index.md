@@ -30,7 +30,8 @@ abstract: Purely character-based language models (LMs) have been lagging in qual
 summary:
 
 tags:
-- Source Themes
+- Language Modeling
+- Token-Free
 featured: false
 
 # links:

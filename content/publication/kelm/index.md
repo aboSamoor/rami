@@ -30,7 +30,9 @@ abstract: Prior work on Data-To-Text Generation, the task of converting knowledg
 summary:
 
 tags:
-- Source Themes
+- Knowledge Base
+- Language Generation
+- Language Modeling
 featured: false
 
 # links:

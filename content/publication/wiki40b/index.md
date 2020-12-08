@@ -20,8 +20,8 @@ publishDate: "2020-05-06T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "12th Language Resources and Evaluation Conference"
+publication_short: "LREC 2020"
 
 abstract: We propose a new multilingual language model benchmark that is composed of 40+ languages spanning several scripts and linguistic families. With around 40 billion characters, we hope this new resource will accelerate the research of multilingual modeling. We train monolingual causal language models using a state-of-the-art model (Transformer-XL) establishing baselines for many languages. We also introduce the task of multilingual causal language modeling where we train our model on the combined text of 40+ languages from Wikipedia with different vocabulary sizes and evaluate on the languages individually. We released the cleaned-up text of 40+ Wikipedia language editions, the corresponding trained monolingual language models, and several multilingual language models with different fixed vocabulary sizes.
 
@@ -29,7 +29,7 @@ abstract: We propose a new multilingual language model benchmark that is compose
 summary:
 
 tags:
-- Source Themes
+- Multilingual
 featured: false
 
 # links:

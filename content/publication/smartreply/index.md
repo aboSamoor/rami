@@ -34,7 +34,8 @@ abstract: This paper presents a computationally efficient machine-learned method
 summary:
 
 tags:
-- Source Themes
+- Conversational Modeling
+- Deep Retrieval
 featured: false
 
 # links:

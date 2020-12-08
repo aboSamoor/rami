@@ -29,7 +29,8 @@ abstract: Can neural networks learn to compare graphs without feature engineerin
 summary:
 
 tags:
-- Source Themes
+- Graph Neural Networks
+- Graph Similarity
 featured: false
 
 # links:

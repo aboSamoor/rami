@@ -31,7 +31,8 @@ abstract: We investigate the task of modeling open-domain, multi-turn, unstructu
 summary:
 
 tags:
-- Source Themes
+- Conversational Modeling
+- Deep Retrieval
 featured: false
 
 # links:

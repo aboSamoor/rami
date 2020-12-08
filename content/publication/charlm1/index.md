@@ -30,7 +30,8 @@ abstract: "LSTMs and other RNN variants have shown strong performance on charact
 summary:
 
 tags:
-- Source Themes
+- Language Modeling
+- Token-Free
 featured: false
 
 # links:

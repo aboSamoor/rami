@@ -30,7 +30,9 @@ abstract: We present a system for bilingual Data-To-Text Generation and Semantic
 summary:
 
 tags:
-- Source Themes
+- Language Generation
+- Language Modeling
+- Structured Data
 featured: false
 
 # links:
