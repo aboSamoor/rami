@@ -28,7 +28,6 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * SmartReply Technical Lead
-  * SmartCompose Research Lead
   * Deep Retrieval Research Lead
   """
 
@@ -58,25 +57,29 @@ date_format = "Jan 2006"
   location = "New York City, NY"
   date_start = "2013-06-01"
   date_end = "2013-08-26"
-  description = ""
+  description = """Host: Leon Bottou
+  "Investigated new ways to improve semi-supervised learning with word embeddings."
+  """
   
 
 [[experience]]
   title = "Research Intern"
   company = "Google Research"
   company_url = ""
-  location = "Mountain View"
+  location = "Mountain View, CA"
   date_start = "2012-06-01"
   date_end = "2012-08-26"
-  description = ""
+  description = """Host: Jay Ponte.
+  "Developed a language-independent, semi-supervised method for multilingual coreference resolution utilizing word emebddings and finetuned dual-encoder ranking model."""
   
 [[experience]]
   title = "Software Engineer Intern"
   company = "Google"
   company_url = ""
-  location = "Mountain View"
+  location = "Mountain View, CA"
   date_start = "2011-06-01"
   date_end = "2011-08-26"
-  description = ""  
-
+  description = """Host: Mario Guajardo
+  "Developed a visualization systems for Google's data centers' internal networks."
+  """
 +++
