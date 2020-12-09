@@ -24,11 +24,9 @@ date_format = "Jan 2006"
   location = "Stony Brook, NY"
   date_start = "2010-09-01"
   date_end = "2015-06-01"
-  description = """
-  Dissertation: Polyglot: A Massive Multilingual Natural Language Processing Pipeline
-  Adviser: Steven Skiena
-  Committee: Yejin Choi, Leman Akoglu, Leon Bottou
-  """
+  description = """ Dissertation: Polyglot: A Massive Multilingual Natural Language Processing Pipeline. \n
+  Adviser: Steven Skiena \n
+  Committee: Yejin Choi, Leman Akoglu, Leon Bottou"""
 
 [[experience]]
   title = "BSc Computer Engineering"
