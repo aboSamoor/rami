@@ -70,7 +70,8 @@ date_format = "Jan 2006"
   date_start = "2012-06-01"
   date_end = "2012-08-26"
   description = """**Host**: Jay Ponte</br>
-  "Developed a language-independent, semi-supervised method for multilingual coreference resolution utilizing word emebddings and finetuned dual-encoder ranking model."""
+  "Developed a language-independent, semi-supervised method for multilingual coreference resolution utilizing word emebddings and finetuned dual-encoder ranking model."
+  """
   
 [[experience]]
   title = "Software Engineer Intern"
