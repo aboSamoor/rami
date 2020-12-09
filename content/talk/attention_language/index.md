@@ -18,7 +18,7 @@ all_day: false
 publishDate: "2020-09-17T13:30:00Z"
 
 authors: [admin]
-tags: [attention, language modeling, seq2seq, self-supervision]
+tags: [Attention, Language Modeling, Seq2Seq, Self-Supervision]
 
 # Is this a featured talk? (true/false)
 featured: false
