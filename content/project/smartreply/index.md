@@ -10,7 +10,7 @@ summary = "Designing the next generation of SmartReply for Gmail."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["smartreply", "retrieval", "scalable"]
+tags = ["Smartreply", "Deep Retrieval", "Scalable"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
