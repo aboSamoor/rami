@@ -5,7 +5,7 @@ event_url: https://dl4sci-school.lbl.gov/rami-al-rfou
 
 
 
-summary: Lecture on how attention mechanism enhances language modeling.
+summary: Tutorial on how attention mechanism enhances language modeling.
 abstract: "The recent introduction of attention mechanisms to deep learning brought significant gains in quality and interpretability to machine learning models. The impact on natural language processing has been transformational. With the introduction of new models such as Transformer, T5, GPT-x and BERT, machine understanding of language has accelerated. In this talk, we study the problems attention tries to address, the intuition behind self-attention mechanisms, and connection to CNN and Graph neural networks through the application of language modeling. We follow up with a discussion of popular self-supervised language models and scalability challenges that face attention-based models."
 
 # Talk start and end times.
@@ -28,10 +28,6 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/aboSamoor
 url_code: ""
 url_pdf: ""
 url_slides: "https://docs.google.com/presentation/d/e/2PACX-1vSSJFhT48nV5sFZa3Wvdl6s79Cx_87B5_phRzsaP_KIbQfOO_OK5rIQkKGlqyiWVD6IW6VdNaOzO8On/pub?start=false&loop=false&delayms=3000"
