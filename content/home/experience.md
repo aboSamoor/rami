@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   location = "New York City, NY"
   date_start = "2013-06-01"
   date_end = "2013-08-26"
-  description = """Host: Leon Bottou\n
+  description = """**Host**: Leon Bottou</br>
   "Investigated new ways to improve semi-supervised learning with word embeddings."
   """
   
@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   location = "Mountain View, CA"
   date_start = "2012-06-01"
   date_end = "2012-08-26"
-  description = """Host: Jay Ponte\n
+  description = """**Host**: Jay Ponte</br>
   "Developed a language-independent, semi-supervised method for multilingual coreference resolution utilizing word emebddings and finetuned dual-encoder ranking model."""
   
 [[experience]]
@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   location = "Mountain View, CA"
   date_start = "2011-06-01"
   date_end = "2011-08-26"
-  description = """Host: Mario Guajardo\n
-  "Developed a visualization systems for Google's data centers' internal networks."
+  description = """**Host**: Mario Guajardo</br>
+  "Developed a visualization system for Google's data centers' internal networks."
   """
 +++
