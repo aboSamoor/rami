@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2010-09-01"
   date_end = "2015-06-01"
   description = """**Dissertation**: Polyglot: A Massive Multilingual Natural Language Processing Pipeline.
-  **Adviser**: Steven Skiena.\n
+  **Adviser**: Steven Skiena.</br>
   **Committee**: Yejin Choi, Leman Akoglu, Leon Bottou"""
 
 [[experience]]
@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   location = "Amman, Jordan"
   date_start = "2004-09-01"
   date_end = "2009-02-01"
-  description = """Dissertation: TCP Performance over Wireless Networks: Analysis & Simulation.\n
-  GPA: 3.79/4.0
+  description = """**Dissertation**: TCP Performance over Wireless Networks: Analysis & Simulation.</br>
+  **GPA**: 3.79/4.0
   """
 
 +++
