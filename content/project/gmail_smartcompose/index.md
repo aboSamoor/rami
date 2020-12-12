@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "Gmail SmartReply"
+title = "Gmail SmartCompose"
 
 # Date this page was created.
 date = 2020-12-12T00:00:00
 
 # Project summary to display on homepage.
-summary = "Designing the next generation of SmartReply for Gmail."
+summary = "Seq2Seq language model to assist users finishing their sentences."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Smartreply", "Deep Retrieval", "Scalable"]
+tags = ["SmartCompose", "Seq2Seq", "Scalable"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://ai.googleblog.com/2018/05/smart-compose-using-neural-networks-to.html"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -37,11 +37,10 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = "Gmail SmartReply in action."
+  caption = "SmartCompose in action."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 
 +++
-<iframe src="https://ai.googleblog.com/2017/05/efficient-smart-reply-now-for-gmail.html" frameborder="0" width="900" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
