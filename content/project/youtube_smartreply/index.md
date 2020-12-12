@@ -44,4 +44,4 @@ url_code = ""
 
 +++
 
-<iframe src="https://ai.googleblog.com/2020/07/smartreply-for-youtube-creators.html" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://ai.googleblog.com/2020/07/smartreply-for-youtube-creators.html" frameborder="0" width="900" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

@@ -3,7 +3,7 @@
 title = "Gmail SmartReply"
 
 # Date this page was created.
-date = 2007-10-19T00:00:00
+date = 2020-12-12T00:00:00
 
 # Project summary to display on homepage.
 summary = "Designing the next generation of SmartReply for Gmail."
@@ -43,26 +43,5 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 
-[[gallery_item]]
-album = "gallery"
-image = "smartreply_2.gif"
-caption = "Demo"
-
-[[gallery_item]]
-album = "gallery"
-image = "smartreply_1.png"
-caption = "Demo"
-
-[[gallery_item]]
-album = "gallery"
-image = "smartreply_3.png"
-caption = "Demo"
-
-[[gallery_item]]
-album = "gallery"
-image = "smartreply_4.png"
-caption = "Hierarchical Architecture"
 +++
-
-
-{{< gallery >}}
+<iframe src="https://ai.googleblog.com/2017/05/efficient-smart-reply-now-for-gmail.html" frameborder="0" width="900" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
