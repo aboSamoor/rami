@@ -3,7 +3,7 @@
 title = "Polyglot Embeddings"
 
 # Date this page was created.
-date = 2020-12-12T00:00:00
+date = 2020-12-08T00:00:00
 
 # Project summary to display on homepage.
 summary = "Word embeddings for +100 languages."
@@ -27,7 +27,7 @@ url_pdf = ""
 url_slides = "https://docs.google.com/presentation/d/13Za5smyEnPmNr-Gf48TsWnbswtkaacZNdBV1fwgdYbo/present?slide=id.p"
 url_video = ""
 url_code = "https://bitbucket.org/aboSamoor/word2embeddings"
-url_demo = "http://wordrepresentation.appspot.com/"
+links = [{name = "Demo", url = "http://wordrepresentation.appspot.com/"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

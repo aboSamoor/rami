@@ -3,7 +3,7 @@
 title = "Gmail SmartCompose"
 
 # Date this page was created.
-date = 2020-12-12T00:00:00
+date = 2020-12-11T00:00:00
 
 # Project summary to display on homepage.
 summary = "Seq2Seq language model to assist users finishing their sentences."
