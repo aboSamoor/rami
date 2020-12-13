@@ -12,7 +12,7 @@ summary = "A Multilingual Character-Based SmartReply for YouTube Creators."
 tags = ["Smartreply", "Deep Retrieval", "Scalable"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://ai.googleblog.com/2020/07/smartreply-for-youtube-creators.html"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

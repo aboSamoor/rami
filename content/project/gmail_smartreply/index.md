@@ -13,7 +13,7 @@ summary = "Designing the next generation of SmartReply for Gmail."
 tags = ["Smartreply", "Deep Retrieval", "Scalable"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://ai.googleblog.com/2017/05/efficient-smart-reply-now-for-gmail.html"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
