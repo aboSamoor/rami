@@ -24,7 +24,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://docs.google.com/presentation/d/13Za5smyEnPmNr-Gf48TsWnbswtkaacZNdBV1fwgdYbo/present?slide=id.p"
 url_video = ""
 url_code = ""
 
