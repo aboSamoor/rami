@@ -1,18 +1,18 @@
 +++
 # Project title.
-title = "Polyglot Embeddings"
+title = "Polyglot NER"
 
 # Date this page was created.
 date = 2020-12-12T00:00:00
 
 # Project summary to display on homepage.
-summary = "Word embeddings for +100 languages."
+summary = "Named entity recognition for +40 languages."
 
 # Tags: can be used for filtering projects.
 tags = ["Multilingual"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://sites.google.com/site/rmyeid/projects/polyglot"
+external_link = "https://sites.google.com/site/rmyeid/projects/polylgot-ner"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -26,7 +26,7 @@ slides = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://polyglot.readthedocs.org"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -36,7 +36,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = "Visualization of polyglot embeddings."
+  caption = "Polyglot NER system demo."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
