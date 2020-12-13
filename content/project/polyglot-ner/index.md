@@ -24,9 +24,10 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://docs.google.com/presentation/d/e/2PACX-1vRNc3-W6Hw_ukH2xHR10orZNB313uJhMYz-yI5XlYTfOOTn8ok0TG3khoizLn1J-5-ojF27gTNozMU-/pub?start=false&loop=false&delayms=3000"
 url_video = ""
 url_code = "https://polyglot.readthedocs.org"
+url_demo = "https://entityextractor.appspot.com"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

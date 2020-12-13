@@ -26,7 +26,8 @@ slides = ""
 url_pdf = ""
 url_slides = "https://docs.google.com/presentation/d/13Za5smyEnPmNr-Gf48TsWnbswtkaacZNdBV1fwgdYbo/present?slide=id.p"
 url_video = ""
-url_code = ""
+url_code = "https://bitbucket.org/aboSamoor/word2embeddings"
+url_demo = "http://wordrepresentation.appspot.com/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
