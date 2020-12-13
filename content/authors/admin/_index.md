@@ -52,4 +52,12 @@ user_groups:
 - Visitors
 ---
 
-Rami Al-Rfou is a researcher at Google Research, where look into new ways to improve language modeling throug self-supervision techniques and transfer learning to train one set of models to cover +100 languages.
+Rami Al-Rfou is a Staff Research Scientist at Google Research.
+In hi current role, he is a technical lead for assisted writing applications such as SmartReply.
+His research focuses on improving pretraining huge language modeling through token-free architectures, synthetic datasets constructed with knowledge-base based generative models, and improved sampling strategies for multilingual datasets.
+These pretrained language models, trained on +100 languages, are being utilized in query understanding, web page understanding, semantic search, and response ranking in conversations.
+
+Al-Rfou received his PhD in Computer Science at Stony Brook University under the supervision of Prof. Steven Skiena in 2015.
+He investigated how to utilize deep learning representations to build truly massive multilingual NLP pipeline that supports +100 languages.
+Massively multilingual modeling significantly gained momentum in the recent years since then.
+Al-Rfou's experience in sequential modeling and crosslingual applications span 10 years of academic and industrial research with applications that touched the lives of millions of users and open sourced code that helped thousands of students.
