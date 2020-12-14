@@ -61,9 +61,13 @@ user_groups:
 ---
 
 Rami Al-Rfou is a Staff Research Scientist at Google Research.
-In hi current role, he is a technical lead for assisted writing applications such as SmartReply.
+In his current role, he is a technical lead for assisted writing applications such as SmartReply.
 His research focuses on improving pretraining huge language modeling through token-free architectures, synthetic datasets constructed with knowledge-base based generative models, and improved sampling strategies for multilingual datasets.
 These pretrained language models, trained on +100 languages, are being utilized in query understanding, web page understanding, semantic search, and response ranking in conversations.
+
+Al-Rfou's research goes beyond language into designing better architecture to under large-scale data such as graphs.
+Al-Rfou repurposes language modeling tools to produce novel graph learning algorithms that measure node and graph similarities.
+These modeling ideas have been deployed for spam detection and personalization application on large scale.
 
 Al-Rfou received his PhD in Computer Science at Stony Brook University under the supervision of Prof. Steven Skiena in 2015.
 He investigated how to utilize deep learning representations to build truly massive multilingual NLP pipeline that supports +100 languages.
