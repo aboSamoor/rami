@@ -35,15 +35,12 @@ tags:
 - Structured Data
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
 url_pdf: 'https://webnlg-challenge.loria.fr/files/2020.webnlg-papers.13.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/e/2PACX-1vSEDJT1MX_gXD3D8hJxzN5E7bzkOLwOcLbfH2vq7vF_3WTgNbrKZb8QFnhd_0Ev7q2p2eDUiqZK1BAc/pub?start=false&loop=false&delayms=5000&slide=id.ga866723899_0_167'
+url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -68,3 +65,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+url_custom = [{name = "Slides", url = "https://docs.google.com/presentation/d/e/2PACX-1vSEDJT1MX_gXD3D8hJxzN5E7bzkOLwOcLbfH2vq7vF_3WTgNbrKZb8QFnhd_0Ev7q2p2eDUiqZK1BAc/pub?start=false&loop=false&delayms=5000&slide=id.ga866723899_0_167"}]
+
