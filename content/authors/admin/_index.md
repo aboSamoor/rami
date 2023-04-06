@@ -60,9 +60,11 @@ user_groups:
 - Visitors
 ---
 
-Rami Al-Rfou is a Staff Research Scientist at Google Research.
-In his current role, he is a technical lead for assisted writing applications such as SmartReply.
-His research focuses on improving pretraining huge language modeling through token-free architectures, synthetic datasets constructed with knowledge-base based generative models, and improved sampling strategies for multilingual datasets.
+Rami Al-Rfou is a Staff Research Scientist at Waymo Research.
+He leads a team to build foundational models of motion and driving based on his expertise in large language models.
+
+Previously, Rami was a technical lead for assisted writing applications such as SmartReply at Google Research.
+His research focused on improving pretraining huge language modeling through token-free architectures, synthetic datasets constructed with knowledge-base based generative models, and improved sampling strategies for multilingual datasets.
 These pretrained language models, trained on +100 languages, are being utilized in query understanding, web page understanding, semantic search, and response ranking in conversations.
 
 Al-Rfou's research goes beyond language into designing better architecture to under large-scale data such as graphs.
