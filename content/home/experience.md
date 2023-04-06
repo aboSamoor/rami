@@ -17,13 +17,27 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Staff Research Scientist"
+  company = "Waymo Research"
+  company_url = ""
+  location = "Mountain View, CA"
+  date_start = "2021-03-23"
+  date_end = ""
+  description = """
+  Responsibilities include:
+
+  * Foundational Motion Models TLM
+  """
+
 [[experience]]
   title = "Staff Research Scientist"
   company = "Google Research"
   company_url = ""
   location = "Mountain View, CA"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2021-03-21"
   description = """
   Responsibilities include:
   
