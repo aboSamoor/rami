@@ -6,7 +6,7 @@ title: Rami Al-Rfou
 superuser: true
 
 # Role/position
-role: Staff Research Scientist
+role: Senior Staff Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ user_groups:
 - Visitors
 ---
 
-Rami Al-Rfou is a Staff Research Scientist at Waymo Research.
+Rami Al-Rfou is a Senior Staff Research Scientist at Waymo Research.
 He leads a team to build foundational models for motion and driving based on his expertise in large language models.
 
 Previously, Rami was a technical lead for assisted writing applications such as SmartReply at Google Research.
