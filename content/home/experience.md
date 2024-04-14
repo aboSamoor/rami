@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Staff Research Scientist"
+  title = "Senior Staff Research Scientist"
   company = "Waymo Research"
   company_url = ""
   location = "Mountain View, CA"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company = "Google Research"
   company_url = ""
   location = "Mountain View, CA"
-  date_start = "2020-09-01"
+  date_start = "2015-06-15"
   date_end = "2021-03-21"
   description = """
   Responsibilities include:
@@ -44,25 +44,6 @@ date_format = "Jan 2006"
   * SmartReply Technical Lead
   * Deep Retrieval Research Lead
   """
-
-[[experience]]
-  title = "Senior Research Scientist"
-  company = "Google Research"
-  company_url = ""
-  location = "Mountain View, CA"
-  date_start = "2017-04-01"
-  date_end = "2020-09-01"
-  description = ""
-
-[[experience]]
-  title = "Software Engineer"
-  company = "Google Research"
-  company_url = ""
-  location = "Mountain View, CA"
-  date_start = "2015-06-15"
-  date_end = "2017-04-01"
-  description = ""
-
 
 [[experience]]
   title = "Research Intern"
